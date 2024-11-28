@@ -1,3 +1,5 @@
+**Try the notebook online >** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayyan-Tariq-Khan/GIPit/blob/main/GIPit.ipynb)
+
 # ProteoViz
 A visualization workflow for complexomics data
 
